@@ -9,6 +9,8 @@ ubuntu下用anaconda配置环境
  $source activate name激活环境
  
  $source deactivate退出环境
-## 4. 激活环境下安装tensorflow $conda install --channel https://conda.anaconda.org/jjh_cio_testing tensorflow-gpu
+## 4. 激活环境下安装tensorflow 
+$conda install --channel https://conda.anaconda.org/jjh_cio_testing tensorflow-gpu
+
 其他相关环境安装见链接：https://blog.csdn.net/liuyan20062010/article/details/78872729
 
